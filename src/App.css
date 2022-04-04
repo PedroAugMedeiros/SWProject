@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  color: white;
+  background:url('./images/Background.jpg') fixed;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.App {
+  background-color:  rgb(18, 18, 18);
+  margin: 0% 5% 5% 5%;
+  padding: 0;
+  border: 0;
+  max-height: 750px;
+  overflow: scroll
+}
+
+.SWPlanets {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+table {
+  display: table;
+  background-color:  rgb(30, 30, 30);
+  margin: 0;
+  padding: 50px;
+  border: 0;
+  font-size: 20px;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: grey;
+}
+
+thead {
+  background-color:rgb(15, 15, 15) ;
+  padding: 10px;
+}
+
+tbody {
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+  padding: 0px 50px;
+}
+
+td {
+  text-align: center;
+  padding: 0px 50px;
+}
+
+h1 {
+  font-size: 100px;
+  padding-bottom: 60px;
+}
+
+.inputs {
+  font-size: 20px;
+}
+
+.inputsSection {
+  padding: 20px;
+}
